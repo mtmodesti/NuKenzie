@@ -1,0 +1,57 @@
+
+.Input {
+    display: flex;
+    background-color: #F8F9FA;
+    margin: 5px;
+    justify-content: space-around;
+    border-radius: 5px;
+    border-left: green solid 2px;
+}
+
+.Output {
+    display: flex;
+    background-color: #F8F9FA;
+    margin: 5px;
+    justify-content: space-around;
+    border-radius: 5px;
+    border-left: red solid 2px;
+}
+
+.leftsidecard {
+    width: 30vw;
+    max-width: 560px;
+   
+}
+.topdivcard {
+    display: flex;
+    flex-direction: row;
+}
+
+.bolder {
+    font-size: 16px;
+    color: #212529;
+    font-weight: 700;
+    height: 39px;
+    margin-left: 10px;
+}
+.type{
+    color: #868E96;
+    size: 12px;
+    font-weight: 400;
+    height: 27px;
+}
+
+.price{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.thrash{
+    cursor: pointer;
+}
+
+.trash:hover{
+    
+	transform: scale(3.1);
+}

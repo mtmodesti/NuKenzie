@@ -1,0 +1,15 @@
+.allbtn{
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #FD377E;
+    margin: 2px;
+    width: 15vw;
+    font-size: 9px;
+    max-width: 62px;
+    border: none;
+  }
+
+  .allbtn:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+  }

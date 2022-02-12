@@ -1,0 +1,12 @@
+.listCard{
+    
+    height: 300px;
+    overflow-y: scroll;
+
+}
+
+li {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+}

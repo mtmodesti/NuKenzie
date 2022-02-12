@@ -1,0 +1,10 @@
+.btn{
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #E9ECEF;
+    margin: 2px;
+    width: 15vw;
+    font-size: 9px;
+    max-width: 62px;
+    border: none;
+    }
